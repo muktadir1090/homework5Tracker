@@ -56,6 +56,14 @@ Installation
 	•	Click the Delete button on any task to remove it from the board.
 	•	Deleted tasks are permanently removed and will not reappear after refreshing the page.
 
+Screenshots:
+![Screenshot 2024-09-23 at 11 50 44 AM](https://github.com/user-attachments/assets/f6ca18c0-9332-40d1-82a5-951c55df6a80)
+
+![Screenshot 2024-09-23 at 11 51 07 AM](https://github.com/user-attachments/assets/c9625b1a-738d-4097-b9a0-418bd1f793d2)
+![Screenshot 2024-09-23 at 11 56 41 AM](https://github.com/user-attachments/assets/d284b020-9a58-48c0-b3b2-4913c286520b)
+
+
+
 License
 
 This project is licensed under the MIT License.
